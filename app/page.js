@@ -1,3 +1,4 @@
+// src/app/page.js
 import LaunchBanner from "./components/widgets/LaunchBanner";
 
 export default function Home() {
